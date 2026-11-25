@@ -66,7 +66,7 @@
 
 Agently is an AI Work OS that acts as a chief of staff for companies, learning from connected tools to automate tasks like drafting replies, chasing invoices, and managing deals. It offers a free tier and a Pro plan at $99/month with credits, storage, and team members, ensuring data is encrypted in transit and at rest, never used to train models.
 
-**Areas:** AI · Automation · Productivity · SaaS · Chief of Staff
+**Areas:** Artificial Intelligence · Automation · Productivity · Software-as-a-Service · Chief of Staff
 
 ## Agently on APIs.io
 
@@ -84,14 +84,14 @@ Each property below is a page on APIs.io carrying the machine-readable artifact 
 
 Authentication, trust centre, and vulnerability disclosure.
 
-- [Agently Dev Authentication](https://apis.io/security/agently-dev/agently-dev-authentication/)
-- [Agently Dev Domain Security](https://apis.io/security/agently-dev/agently-dev-domain-security/)
+- [Agently Authentication](https://apis.io/security/agently-dev/agently-dev-authentication/)
+- [Agently Domain Security](https://apis.io/security/agently-dev/agently-dev-domain-security/)
 
 #### Plans and pricing (1)
 
 Published plans, tiers and prices.
 
-- [Agently Dev Plans Pricing](https://apis.io/plans/agently-dev/agently-dev-plans-pricing/)
+- [Agently Plans Pricing](https://apis.io/plans/agently-dev/agently-dev-plans-pricing/)
 
 ## Where to find this API
 
@@ -108,25 +108,25 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-**Kin Score 25.3** — emerging · rubric 0.25.0 · scored 2026-11-01
+**Kin Score 26.5** — thin · rubric 0.28.1 · scored 2026-11-21
 
 | Facet | Score |
 |---|---|
-| Discoverability | 66.1 |
+| Discoverability | 73.2 |
 | Contract quality | 0.0 |
 | Contract governance | 0.0 |
 | Operational transparency | 0.0 |
 | Developer ergonomics | 40.5 |
-| Access clarity | 50.5 |
+| Access clarity | 57.4 |
 
-**Agent readiness 21.8** — agent-aware
+**Agent readiness 18.3** — agent-aware
 
 | Agent-readiness dimension | Result |
 |---|---|
 | Spec Presence | — |
 | Agentic Access | — |
 | Reversibility Documented | — |
-| MCP Server | documented (partial credit) |
+| MCP Server | — |
 | Auth Clarity | served (partial credit) |
 | Idempotency | — |
 | Error Semantics | — |
@@ -144,8 +144,12 @@ Links to the company's own pages. This repository publishes no copy of their spe
 | Agentic Commerce | — |
 | Pagination Ratio | na |
 | Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+| Onboarding Descriptor | — |
+| Dns Aid Index | na |
+| Markdown Negotiation | na |
 
-**Regulatory alignment 18.2** — Horizontal (data, software, accessibility, platform)
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
 
 The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/agently-dev/](https://apis.io/providers/agently-dev/).
 
